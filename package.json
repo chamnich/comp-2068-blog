@@ -1,7 +1,7 @@
 {
-  "name": "comp-2068-blog",
+  "name": "comp-2068-thursday",
   "version": "1.0.0",
-  "description": "Blogging project",
+  "description": "A blogging platform",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chamnich/comp-2068-blog.git"
+    "url": "git+https://github.com/gcsmckinnon/comp-2068-thursday.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Shaun McKinnon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chamnich/comp-2068-blog/issues"
+    "url": "https://github.com/gcsmckinnon/comp-2068-thursday/issues"
   },
-  "homepage": "https://github.com/chamnich/comp-2068-blog#readme",
+  "homepage": "https://github.com/gcsmckinnon/comp-2068-thursday#readme",
   "dependencies": {
     "express": "^4.16.4"
   }

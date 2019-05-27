@@ -1,2 +1,2 @@
-# comp-2068-blog
-Blogging project
+# comp-2068-thursday
+A blogging platform
